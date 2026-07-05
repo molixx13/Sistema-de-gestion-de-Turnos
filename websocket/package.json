@@ -1,0 +1,13 @@
+{
+  "name": "turnos-websocket",
+  "version": "1.0.0",
+  "description": "Servidor WebSocket para el sistema de gestión de turnos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.5",
+    "express": "^4.21.0"
+  }
+}
